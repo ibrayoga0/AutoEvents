@@ -64,7 +64,6 @@ Script moonloader untuk SA:MP yang memungkinkan otomatisasi join event di server
 ## 👨‍💻 Kredit
 
 - **Developer**: Ibraheem
-- **Support**: bulionapatokka
 
 ## ⚠️ Disclaimer
 
