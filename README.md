@@ -6,7 +6,6 @@ Script moonloader untuk SA:MP yang memungkinkan otomatisasi join event di server
 
 - **Nama**: AutoEvent
 - **Author**: Ibraheem
-- **Terakhir Diperbarui**: 16 Januari 2025
 
 ## 📋 Fitur-Fitur
 
